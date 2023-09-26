@@ -7,7 +7,7 @@
 
 ## 作業連結區  
 
-https://reganwiranto.github.io/my-web/
+9/12[About Me !](https://reganwiranto.github.io/my-web/)
 
 ## 專題連結區
 
