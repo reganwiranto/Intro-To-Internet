@@ -7,10 +7,11 @@
 
 ## 作業連結區  
 
-9/12[About Me !](https://reganwiranto.github.io/my-web/)
+9/12
+HW1[About Me !](https://reganwiranto.github.io/my-web/)
 
 HW3 [Weight Converter Explained](https://www.youtube.com/watch?v=zoG84br2ohI)
-
+    [Wieght converter website](file:///Users/reganwiranto/Desktop/Weight-converter/index.html)
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
