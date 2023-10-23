@@ -8,6 +8,7 @@
 ## 作業連結區  
 
 9/12[About Me !](https://reganwiranto.github.io/my-web/)
+[Weight Converter Explained](https://www.youtube.com/watch?v=zoG84br2ohI)
 
 ## 專題連結區
 
