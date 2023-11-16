@@ -14,6 +14,8 @@ HW3 [Weight Converter Explained](https://www.youtube.com/watch?v=zoG84br2ohI)
 
 Weight Converter [Website](file:///Users/reganwiranto/Desktop/Weight-converter/index.html)
 
+HW4 [Azure](https://youtu.be/M10dPxeUaAg)
+
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
